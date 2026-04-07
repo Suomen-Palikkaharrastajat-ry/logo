@@ -9,7 +9,7 @@ url         = "https://logo.palikkaharrastajat.fi"
 [metadata]
 author = "Suomen Palikkaharrastajat ry"
 locale = "fi_FI"
-robots = "index, follow"
+robots = "noindex, nofollow"
 theme_color = "#05131D"
 color_scheme = "light dark"
 format_detection = "telephone=no"
