@@ -1,5 +1,5 @@
 ---
-title: "Komponentit"
+title: "Komponentit – Suomen Palikkaharrastajat ry"
 description: "Käyttöliittymäkomponenttien esittely ja käyttöesimerkit."
 slug: komponentit
 published: true

@@ -1,5 +1,5 @@
 ---
-title: "Responsiivisuus"
+title: "Responsiivisuus – Suomen Palikkaharrastajat ry"
 description: "Mobiililähtöinen suunnittelu, murtopisteet, ruudukkomallit ja asetteluperiaatteet."
 slug: responsiivisuus
 published: true

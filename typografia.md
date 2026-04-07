@@ -1,5 +1,5 @@
 ---
-title: "Typografia"
+title: "Typografia – Suomen Palikkaharrastajat ry"
 description: "Typografiaskaala, fonttiohjeet ja ikonien käyttö suunnittelujärjestelmässä."
 slug: typografia
 published: true
