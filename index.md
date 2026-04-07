@@ -1,5 +1,5 @@
 ---
-title: "Logo ja värit – Suomen Palikkaharrastajat ry"
+title: "Logo ja värit"
 description: "Suomen Palikkaharrastajat ry:n logo ja visuaalinen identiteetti"
 slug: index
 published: true

@@ -1,5 +1,5 @@
 ---
-title: "Saavutettavuus – Suomen Palikkaharrastajat ry"
+title: "Saavutettavuus"
 description: "WCAG 2.1 AA -ohjeet: kontrastisuhteet, värisokeustuki, fokusindikaattorit ja ARIA-nimeäminen."
 slug: saavutettavuus
 published: true
