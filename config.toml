@@ -2,9 +2,51 @@
 # Edit this file to update branding, navigation, and footer content.
 
 [site]
-title       = "Suomen Palikkaharrastajat ry"
-description = "Suomen LEGO-harrastajien yhteisö"
-url         = "https://palikkaharrastajat.fi"
+title       = "Palikkalogot"
+description = "Suomen Palikkaharrastajat ry:n logo ja värit"
+url         = "https://logo.palikkaharrastajat.fi"
+
+[metadata]
+author = "Suomen Palikkaharrastajat ry"
+locale = "fi_FI"
+robots = "index, follow"
+theme_color = "#05131D"
+color_scheme = "light dark"
+format_detection = "telephone=no"
+default_social_image = "/og-image.png"
+default_social_image_alt = "Suomen Palikkaharrastajat ry:n logo ja väri"
+twitter_card = "summary_large_image"
+# twitter_site = "@yourhandle"
+
+[icons]
+favicon_ico = "/favicon.ico"
+favicon_svg = "/favicon.svg"
+favicon_16 = "/favicon-16x16.png"
+favicon_32 = "/favicon-32x32.png"
+favicon_48 = "/favicon-48x48.png"
+apple_touch_icon = "/apple-touch-icon.png"
+apple_touch_icon_size = 180
+android_chrome_192 = "/android-chrome-192x192.png"
+android_chrome_512 = "/android-chrome-512x512.png"
+
+[pwa]
+manifest_path = "/site.webmanifest"
+applcation_name = "Palikkalogot"
+short_name = "Palikkalogot"
+description = "Suomen Palikkaharrastajat ry:n logo ja värit"
+start_url = "/"
+display = "standalone"
+background_color = "#05131D"
+theme_color = "#05131D"
+mobile_web_app_capable = true
+apple_mobile_web_app_capable = true
+apple_mobile_web_app_status_bar_style = "default"
+apple_mobile_web_app_title = "Palikkalogot"
+
+[pwa.icons]
+icon_192 = "/icon-192.png"
+icon_512 = "/icon-512.png"
+maskable_icon = "/icon-maskable.png"
 
 [branding]
 # Horizontal logo paths — light variant for dark surfaces, dark variant for light surfaces.
