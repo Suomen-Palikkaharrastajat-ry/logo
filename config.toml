@@ -70,7 +70,7 @@ sticky = true
 # Square logo shown in the footer.
 logo        = "/logo/square/svg/square-smile-full-dark-bold.svg"
 # Label rendered above the footer link list (typically the organisation name).
-site_label  = "Suomen Palikkaharrastajat ry"
+site_label  = "Palikkaharrastajat"
 copyright   = "© 2026 Suomen Palikkaharrastajat ry"
 disclaimer  = "LEGO® on LEGO Groupin rekisteröity tavaramerkki"
 links = [
