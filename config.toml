@@ -24,10 +24,16 @@ favicon_svg = "/favicon.svg"
 favicon_16 = "/favicon-16x16.png"
 favicon_32 = "/favicon-32x32.png"
 favicon_48 = "/favicon-48x48.png"
+favicon_64 = "/favicon-64x64.png"
+apple_touch_icon_120 = "/apple-touch-icon-120.png"
+apple_touch_icon_152 = "/apple-touch-icon-152.png"
+apple_touch_icon_167 = "/apple-touch-icon-167.png"
 apple_touch_icon = "/apple-touch-icon.png"
 apple_touch_icon_size = 180
-android_chrome_192 = "/android-chrome-192x192.png"
-android_chrome_512 = "/android-chrome-512x512.png"
+apple_touch_icon_192 = "/apple-touch-icon-192.png"
+apple_touch_icon_512 = "/apple-touch-icon-512.png"
+android_chrome_192 = "/icon-192.png"
+android_chrome_512 = "/icon-512.png"
 
 [pwa]
 manifest_path = "/site.webmanifest"
