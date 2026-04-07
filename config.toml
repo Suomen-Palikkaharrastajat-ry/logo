@@ -37,7 +37,7 @@ android_chrome_512 = "/icon-512.png"
 
 [pwa]
 manifest_path = "/site.webmanifest"
-applcation_name = "Palikkalogot"
+application_name = "Palikkalogot"
 short_name = "Palikkalogot"
 description = "Suomen Palikkaharrastajat ry:n logo ja värit"
 start_url = "/"
