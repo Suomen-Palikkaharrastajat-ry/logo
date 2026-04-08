@@ -84,7 +84,7 @@ Käytä `<with-image src="…">` -tagia kuvan ja tekstisisällön rinnakkaisaset
 
 <preview>
 
-<with-image src="/logo-blue.svg" alt="Logo vaalealla taustalla" side="right">
+<with-image src="/logo/square/svg/square-smile.svg" alt="Neliölogo" side="right">
 
 ### Kuva oikealla
 
@@ -92,7 +92,7 @@ Yhdistä kuva ja teksti kaksisarakkeiseen asetteluun ilman CSS-koodia. Ruudukko 
 
 </with-image>
 
-<with-image src="/logo-blue.svg" alt="Logo vaalealla taustalla" side="left" caption="Logo vaalealla taustalla." maxwidth="3xl">
+<with-image src="/logo/square/svg/square-smile.svg" alt="Neliölogo" side="left" caption="Neliölogon variantti." maxwidth="3xl">
 
 ### Kuva vasemmalla, kuvatekstillä ja leveysrajoituksella
 
