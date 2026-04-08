@@ -75,8 +75,9 @@ copyright   = "© 2026 Suomen Palikkaharrastajat ry"
 disclaimer  = "LEGO® on LEGO Groupin rekisteröity tavaramerkki"
 links = [
     { label = "Jäsenfoorumi", href = "https://forum.palikkaharrastajat.fi" },
-    { label = "Palikkakalenteri", href = "https://kalenteri.palikkaharrastajat.fi" },
+    { label = "Kotisivut", href = "https://palikkaharrastajat.fi" },
     { label = "Jäsenkortti", href = "https://kortti.palikkaharrastajat.fi" },
-    { label = "Palikkalinkit", href = "https://linkit.palikkaharrastajat.fi" },
+    { label = "Palikkakalenteri", href = "https://kalenteri.palikkaharrastajat.fi" },
     { label = "Jäsenmaksu", href = "https://maksut.palikkaharrastajat.fi" },
+    { label = "Palikkalinkit", href = "https://linkit.palikkaharrastajat.fi" },
 ]
