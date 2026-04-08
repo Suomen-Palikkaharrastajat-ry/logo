@@ -78,7 +78,7 @@ Huomio ilman otsikkoa.
 
 ## Kuva ja teksti (Image + Text)
 
-Käytä `<with-image src="…">` -tagia kuvan ja tekstisisällön rinnakkaisasetteluun. `side`-attribuutti määrittää kuvan puolen: `right` (oletus) tai `left`. `alt`-attribuutti on saavutettavuusselite.
+Käytä `<with-image src="…">` -tagia kuvan ja tekstisisällön rinnakkaisasetteluun. `side`-attribuutti määrittää kuvan puolen: `right` (oletus) tai `left`. `alt`-attribuutti on saavutettavuusselite. Valinnainen `caption`-attribuutti lisää kuvatekstin kuvan alle. Valinnainen `maxwidth`-attribuutti rajoittaa komponentin leveyttä — hyväksyy arvot `lg`, `2xl`, `3xl` tai `4xl`.
 
 <tab-group name="with-image-fi">
 
@@ -92,11 +92,11 @@ Yhdistä kuva ja teksti kaksisarakkeiseen asetteluun ilman CSS-koodia. Ruudukko 
 
 </with-image>
 
-<with-image src="/logo-blue.svg" alt="Logo vaalealla taustalla" side="left">
+<with-image src="/logo-blue.svg" alt="Logo vaalealla taustalla" side="left" caption="Logo vaalealla taustalla." maxwidth="3xl">
 
-### Kuva vasemmalla
+### Kuva vasemmalla, kuvatekstillä ja leveysrajoituksella
 
-Vaihda kuvan puoli `side="left"` -attribuutilla. Vuorottelemalla puolia saat sivulle visuaalista rytmiä.
+Käytä `caption`-attribuuttia lisätäksesi selitteen kuvan alle. Käytä `maxwidth`-attribuuttia, kun haluat estää asettelua venymästä täyteen leveyteen — hyödyllinen pystykuville tai tiiviimpiin sommitelmiin.
 
 </with-image>
 
@@ -110,6 +110,16 @@ Vaihda kuvan puoli `side="left"` -attribuutilla. Vuorottelemalla puolia saat siv
 ### Otsikko
 
 Kuvausteksti tähän.
+
+&lt;/with-image&gt;
+
+&lt;with-image src="/kuvat/valokuva.jpg" alt="Valokuva" side="left"
+  caption="Valinnainen kuvateksti kuvan alla."
+  maxwidth="3xl"&gt;
+
+### Leveysrajoitettu
+
+Sisältö tähän.
 
 &lt;/with-image&gt;
 ```
