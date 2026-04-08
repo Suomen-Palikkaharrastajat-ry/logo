@@ -1,6 +1,6 @@
 ## Ominaisuusruudukko (Feature Grid)
 
-Käytä `<feature-grid columns="2|3|4">` -tagia `<feature>`-elementtien ryhmittelyyn. `icon`-attribuutti hyväksyy Feather-ikonin nimen (`zap`, `check`, `globe`, `edit`, `layers`, `git-branch`, `rss`, `calendar`, `shield`, `lock`, `code`, `cpu`, `package`, `trending-up` jne.). Valinnainen `href`-attribuutti tekee kortista linkin.
+Käytä `<feature-grid columns="2|3|4">` -tagia `<feature>`-elementtien ryhmittelyyn. `icon`-attribuutti hyväksyy Feather-ikonin nimen (`zap`, `check`, `globe`, `edit`, `layers`, `git-branch`, `rss`, `calendar`, `shield`, `lock`, `code`, `cpu`, `package`, `trending-up`, `info`, `alert-triangle`, `settings`, `user`, `server`, `terminal` jne.). Valinnainen `href`-attribuutti tekee kortista linkin — linkitetyissä korteissa näkyy automaattisesti hover-taustaväri ja näppäimistönäkö­kehys.
 
 <tab-group name="feature-grid-fi">
 
